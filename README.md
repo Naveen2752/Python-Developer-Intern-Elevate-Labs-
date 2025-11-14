@@ -1,3 +1,4 @@
+# Task1-Elevate-Labs-
 # 🧮 Simple CLI Calculator
 
 A lightweight and beginner-friendly **Command Line Interface (CLI) Calculator** built using Python.  
